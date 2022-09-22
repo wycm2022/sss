@@ -12,6 +12,8 @@ public class Hello {
         System.out.println("hello 3 v1");
         System.out.println("push test!");
         System.out.println("push test!");
+        System.out.println("push test!");
+        System.out.println("push test666!");
     }
 
 }
