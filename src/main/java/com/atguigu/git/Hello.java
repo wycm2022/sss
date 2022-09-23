@@ -1,8 +1,6 @@
 package com.atguigu.git;
 
-/**
- * @author 张林
- */
+
 public class Hello {
 
     public static void main(String args[]){
@@ -14,6 +12,8 @@ public class Hello {
         System.out.println("push test!");
         System.out.println("push test!");
         System.out.println("push test666!");
+        System.out.println("pull代码");
+        System.out.println("pull代码");
         System.out.println("pull代码");
     }
 
