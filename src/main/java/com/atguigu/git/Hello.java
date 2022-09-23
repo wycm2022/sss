@@ -14,6 +14,7 @@ public class Hello {
         System.out.println("push test!");
         System.out.println("push test!");
         System.out.println("push test666!");
+        System.out.println("pull代码");
     }
 
 }
